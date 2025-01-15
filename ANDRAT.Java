@@ -1,4 +1,4 @@
-package com.example.rat;
+package com.andrat.rat;
 
 import android.Manifest;
 import android.app.Service;
