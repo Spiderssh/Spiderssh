@@ -1,4 +1,4 @@
-package com.example.rat;
+package com.andrat.rat;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
